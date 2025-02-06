@@ -1,3 +1,4 @@
+![45 years](https://raw.githubusercontent.com/elias-chacon/blog-posts/refs/heads/main/blog-45.png)
 ## Celebrating 45 Years: My Professional Journey
 
 As I celebrate my 45th birthday today, I'm reflecting on my career that spans over two decades in software development, contributing to building and enhancing systems across various industries, from finance and government to e-commerce and media.
